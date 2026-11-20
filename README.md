@@ -6,3 +6,4 @@ Classe : ING3 Groupe C
 - LAB04 : Création d’images Docker : docker build et docker commit 
 - LAB05 : Création et déploiement d’une image Docker pour une application Web
 - LAB06 : Conteneurisation d’une pile LAMP (Linux Apache – PHP – MySQL)
+- Évaluation Docker-compose : Node.js et MongoDB avec Docker Compose
